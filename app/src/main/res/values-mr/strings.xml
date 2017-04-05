@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="name">नाव</string>
+    <string name="email">ई-मेल</string>
+    <string name="delivery">वितरीत</string>
+    <string name="order">ऑर्डर</string>
+    <string name="whippedcream">मलई</string>
+    <string name="quantity">प्रमाण</string>
+    <string name="toppings"></string>
+    <string name="pickup">घेऊन</string>
+</resources>
